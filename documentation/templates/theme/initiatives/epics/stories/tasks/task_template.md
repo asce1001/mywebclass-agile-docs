@@ -2,7 +2,7 @@ Task Title: learn to create privacy policies
 
 User Story: Create privacy policies 
 
-Description: 1. Draft a privacy policies with all the relevant information.
+Description: 1. Draft a privacy policies like GDPR and ADA with all the relevant information.
              2. Create a tab of privacy policy where in a user can read it 
 
 Assigned To: TBD
@@ -17,7 +17,7 @@ Task Title: comply with relevant legal requirements for website creation and man
 
 User Story: Understand and comply with relevant legal requirements for website creation and management.
 
-Description: 1. Check all the legal requirements required for website creation 
+Description: 1. Check all the legal requirements required for website creation mentioned or aligned with GDPR and ADA 
              2. Check for plagiarism  
 
 Assigned To: TBD
