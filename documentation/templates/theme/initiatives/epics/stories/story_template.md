@@ -4,7 +4,7 @@ i. "As a user, I want to view the privacy policy for the website along with what
 
 Acceptance Criteria:
 
-1. Draft a privacy policies with all the information.
+1. Draft a privacy policies with all the relevant information.
 2. Create a tab of privacy policy where in a user can read it 
 
 
@@ -24,6 +24,6 @@ Acceptance Criteria:
 
 
 # List Stories related to this theme
-1. Learn to create privacy policies 
+1. Create privacy policies 
 2. Understand and comply with relevant legal requirements for website creation and management.
 3. Learn to use Google Analytics to measure user behaviour on a website to improve website's performance and user experience  
