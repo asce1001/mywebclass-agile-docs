@@ -32,7 +32,10 @@ Task Title: Implement Google Analytics
 
 User Story: Learn to use Google Analytics to measure user behaviour on a website to improve website's performance and user experience  
 
-Description: Implement and use Google Analytics on the website to monitor performance and traffic and user activity
+Description: Implement and use Google Analytics on the website to monitor performance and traffic and user activity. 
+             1. The team needs to set up Google Analytics and configure it for the website to track relevant metrics.
+             2. Team needs to take those data, analyze it and identify the issue within the website
+             3. Team needs to prioritize the issue and make the necessary changes 
 
 Assigned To: TBD
 
