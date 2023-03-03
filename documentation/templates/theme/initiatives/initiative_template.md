@@ -63,3 +63,4 @@ Team: Developer and tester
 
 # List epics related to this theme
 1. Creating an educational website which will adhere with privacy policies and comply with legal requirements along with implementing google analytics(documentation/templates/theme/initiatives/epics/epic_template.md)
+2. Implement DevOps for an Educational Website
