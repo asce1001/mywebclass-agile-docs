@@ -1,11 +1,11 @@
 By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
 
-i. "As a user, I want to view the privacy policy for the website along with what alla data the website might collect."
+i. "As a user, I want to view the privacy policy for the website along with what all data the website might collect."
 
 Acceptance Criteria:
 
 1. Draft a privacy policies with all the relevant information.
-2. Create a tab of privacy policy where in a user can read it 
+2. Create a tab of privacy policy where in a user can read it.
 
 
 ii. "As a Developer, I want to comply with legal requirements for the website creation adn its management"
@@ -16,11 +16,15 @@ Acceptance Criteria:
 2. Check for plagiarism  
 
 
-iii. "As a Developer, I want to use gooogle analytics to measure user behaviour on a website to improve website's performance and user experience"
+iii. "As a Developer, I want to use Google Analytics to measure user behaviour on a website to improve website's performance and user experience"
 
 Acceptance Criteria:
 
-1. Implement and use Google Analytics on the website to monitor performance and traffic and user activity
+1. Ensure that Google Analytics tracking code is installed correctly on all pages of the website. 
+2. Verify that the tracking code is capturing all necessary data points such as pageviews, sessions, bounce rate, average session duration, and conversion rate. 
+3. Use insights from Google Analytics reports to make data-driven decisions on website improvements, such as optimizing page load times, improving user engagement, and increasing conversion rates. 
+4. Regularly review and update Google Analytics settings and configurations to ensure accurate tracking and data reporting. 
+5. Ensure that the data collected is GDPR compliant and that users have the option to opt-out of being tracked if required.
 
 
 
