@@ -31,8 +31,7 @@ Goals: 	1.  Implement an automated deployment process for the website
         3.  Enable easy scalability of the website to handle increasing traffic
 
 User Stories:  1.  As a website developer, I want to implement automated build and deployment pipelines for the website code so that updates can be deployed quickly and efficiently.
-               2.  As a website administrator, I want to set up a continuous integration system that runs automated tests on the website code to ensure high quality and reliability. 
-               3.  As a website owner, I want to ensure that the website can be easily scaled to handle increasing traffic by implementing horizontal scaling and load balancing.
+               2.  As a website administrator, I want to set up a continuous integration system that runs automated tests on the website code to ensure high quality and reliability.
 
 Dependencies: Availability of suitable DevOps tools and technologies
 
@@ -50,5 +49,4 @@ Priority: High
 2. Understand and comply with relevant legal requirements for website creation and management
 3. Learn to use Google Analytics to measure user behaviour on a website to improve website's performance and user experience 
 4. As a website developer, I want to implement automated build and deployment pipelines for the website code so that updates can be deployed quickly and efficiently. 
-5. As a website administrator, I want to set up a continuous integration system that runs automated tests on the website code to ensure high quality and reliability. 
-6. As a website owner, I want to ensure that the website can be easily scaled to handle increasing traffic by implementing horizontal scaling and load balancing.
+5. As a website administrator, I want to set up a continuous integration system that runs automated tests on the website code to ensure high quality and reliability.
