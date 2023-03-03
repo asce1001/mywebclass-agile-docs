@@ -26,4 +26,4 @@ Acceptance Criteria:
 # List Stories related to this theme
 1. Learn to create privacy policies 
 2. Understand and comply with relevant legal requirements for website creation and management.
-3. Learn to use Google Analytics to measure user behaviour on a website to improve website's performance and user experience 
+3. Learn to use Google Analytics to measure user behaviour on a website to improve website's performance and user experience  
