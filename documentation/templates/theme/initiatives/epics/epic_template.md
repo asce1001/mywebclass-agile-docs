@@ -20,7 +20,35 @@ Business Value: The website will provide students with practical knowledge and s
 
 Priority: High priority, as the website will provide students with essential knowledge and skills, and help them comply with legal and ethical requirements related to website creation and management.
 
+############################
+
+“Implement DevOps for an Educational Website"
+
+Description: This epic aims to implement DevOps practices to enable continuous delivery and deployment of an educational website, thus ensuring reliable and efficient operation of the site.
+
+Goals: 	1.  Implement an automated deployment process for the website
+        2.  Ensure continuous integration and testing of the website
+        3.  Enable easy scalability of the website to handle increasing traffic
+
+User Stories:  1.  As a website developer, I want to implement automated build and deployment pipelines for the website code so that updates can be deployed quickly and efficiently.
+               2.  As a website administrator, I want to set up a continuous integration system that runs automated tests on the website code to ensure high quality and reliability. 
+               3.  As a website owner, I want to ensure that the website can be easily scaled to handle increasing traffic by implementing horizontal scaling and load balancing.
+
+Dependencies: Availability of suitable DevOps tools and technologies
+
+Risks: 	1.  Lack of experience and knowledge in implementing DevOps practices
+        2.  Technical issues with the DevOps tools and technologies
+
+Estimated Effort:  1nad a half months
+
+Business Value: Implementing DevOps practices will result in a reliable and efficient website operation, faster delivery of updates and features, and better scalability to handle increasing traffic. This will ultimately result in improved user experience and satisfaction.
+
+Priority: High
+
 # List stories related to this theme
 1. Learn to create privacy policies 
 2. Understand and comply with relevant legal requirements for website creation and management
 3. Learn to use Google Analytics to measure user behaviour on a website to improve website's performance and user experience 
+4. As a website developer, I want to implement automated build and deployment pipelines for the website code so that updates can be deployed quickly and efficiently. 
+5. As a website administrator, I want to set up a continuous integration system that runs automated tests on the website code to ensure high quality and reliability. 
+6. As a website owner, I want to ensure that the website can be easily scaled to handle increasing traffic by implementing horizontal scaling and load balancing.
