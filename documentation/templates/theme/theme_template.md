@@ -2,4 +2,4 @@
 
 # List initiatives related to this theme
 1. Creating educational website which has privacy policies, any legal requirements pertaining to the website and to use google analytics to measure user behaviour on the site"(documentation/templates/theme/initiatives/initiative_template.md)
-2. Devops setup for testing the website and its content
+2. Devops setup for testing the website and its content 
