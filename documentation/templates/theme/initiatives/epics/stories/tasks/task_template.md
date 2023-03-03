@@ -74,6 +74,6 @@ Description: The task involves setting up a continuous integration system that a
 Assigned To: TBD
 
 Priority: High
-
+ 
 Status: not started
 
