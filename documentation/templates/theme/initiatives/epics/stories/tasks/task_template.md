@@ -1,15 +1,41 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: learn to create privacy policies
 
-User Story: [Reference the user story that this task supports]
+User Story: Create privacy policies 
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: 1. Draft a privacy policies with all the relevant information.
+             2. Create a tab of privacy policy where in a user can read it 
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Assigned To: TBD
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Priority: High
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Status: not started
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+********************************************
 
-Notes: [Include]
+Task Title: comply with relevant legal requirements for website creation and management
+
+User Story: Understand and comply with relevant legal requirements for website creation and management.
+
+Description: 1. Check all the legal requirements required for website creation 
+             2. Check for plagiarism  
+
+Assigned To: TBD
+
+Priority: High
+
+Status: not started
+
+********************************************
+
+Task Title: Implement Google Analytics
+
+User Story: Learn to use Google Analytics to measure user behaviour on a website to improve website's performance and user experience  
+
+Description: Implement and use Google Analytics on the website to monitor performance and traffic and user activity
+
+Assigned To: TBD
+
+Priority: High
+
+Status: not started
